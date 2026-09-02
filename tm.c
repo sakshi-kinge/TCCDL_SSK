@@ -21,9 +21,9 @@ int main()
 		right--;
 	}
 	if(palindrome)
-		printf("String Accepted(Palindrome)");
+	printf("String Accepted(Palindrome)");
 	else
-		printf("String Rejected(Not Palindrome");
+	printf("String Rejected(Not Palindrome");
 	return 0;
 }
 
